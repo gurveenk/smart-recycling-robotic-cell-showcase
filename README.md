@@ -6,7 +6,7 @@
 
 A Unity robotics simulation by **Gurveen Kapur**
 
-[**Launch Interactive WebGL Demo**](https://gurveenkapur.dev/projects/smart-recycling-robotic-cell/) · [**Watch Full Sorting Video**](https://gurveenkapur.dev/projects/videos/robotic-cell-full-sorting.mp4) · [**Explore Architecture**](Docs/architecture.md)
+<a href="https://gurveenkapur.dev/projects/smart-recycling-robotic-cell/" target="_blank" rel="noopener noreferrer"><strong>Launch Interactive WebGL Demo</strong></a> · <a href="https://gurveenkapur.dev/projects/videos/robotic-cell-full-sorting.mp4" target="_blank" rel="noopener noreferrer"><strong>Watch Full Sorting Video</strong></a> · <a href="Docs/architecture.md"><strong>Explore Architecture</strong></a>
 
 **Unity 6.3 LTS · C# · PhysX / ArticulationBody · URP · WebGL**
 
